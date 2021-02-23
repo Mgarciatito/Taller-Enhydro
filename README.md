@@ -8,7 +8,6 @@ Taller Gratuito de Hidrologia
 |:--------------------    |:--------------| :--------------| :---------|
 | Miguel Angel Garcia Tito | [@MGarciatito](https://github.com/Mgarciatito)| garciatitomiguel@gmail.com | [Miguel Angel Garcia](https://www.linkedin.com/in/garciatitomiguelangel/)|
 | Victor Gallo Ramos | [Victor Gallo] | vic.galloramos@gmail.com | [Victor Gallo Ramos](https://www.linkedin.com/in/victor-gallo-ramos-84b85aa2/)|
-|:--------------------    |:--------------| :--------------| :---------|
 
 ## DIA 2
 - Delimitación de cuencas hidrográficas.
