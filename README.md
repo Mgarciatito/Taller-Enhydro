@@ -1,8 +1,12 @@
 # Taller-Enhydro
-center <img src="https://github.com/Mgarciatito/Taller-Enhydro/blob/master/DIA_2/Panel.jpg" width="500">
+<img src="https://github.com/Mgarciatito/Taller-Enhydro/blob/master/DIA_2/Panel.jpg" width="500">
 Taller Gratuito de Hidrologia
 
-
+## DOCENTE
+- Nombre : Miguel Angel Garcia Tito
+- Linkendin : [Miguel Angel Garcia](https://www.linkedin.com/in/garciatitomiguelangel/)
+- Github :  [@MGarciatito](https://github.com/Mgarciatito)
+- Email :  garciatitomiguel@gmail.com
 
 ## DIA 2
 - Delimitación de cuencas hidrográficas.
