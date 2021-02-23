@@ -1,8 +1,6 @@
-<br /><br />
 # Taller-Enhydro
-</h2>
-<h2 align="center">
-<img src="https://github.com/Mgarciatito/Taller-Enhydro/blob/master/DIA_2/Panel.jpg" width="500">
+<img src="https://github.com/Mgarciatito/Taller-Enhydro/blob/master/DIA_2/Panel.jpg" width="200">
+
 Taller Gratuito de Hidrologia
 
 ## DOCENTE
